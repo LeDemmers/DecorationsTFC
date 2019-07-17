@@ -8,7 +8,7 @@ import net.minecraft.tileentity.TileEntity;
 import org.lwjgl.opengl.GL11;
 
 import com.aleksey.decorations.TileEntities.TileEntityGem;
-import com.bioxx.tfc.Render.TESR.TESRBase;
+import com.dunk.tfc.Render.TESR.TESRBase;
 
 public class TESRGem extends TESRBase
 {

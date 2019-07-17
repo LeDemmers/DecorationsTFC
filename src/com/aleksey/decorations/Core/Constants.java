@@ -2,7 +2,7 @@ package com.aleksey.decorations.Core;
 
 import com.aleksey.decorations.Core.Data.GemInfo;
 import com.aleksey.decorations.Core.Data.LanternInfo;
-import com.bioxx.tfc.api.Crafting.AnvilReq;
+import com.dunk.tfc.api.Crafting.AnvilReq;
 
 public class Constants
 {

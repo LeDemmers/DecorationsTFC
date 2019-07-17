@@ -5,9 +5,9 @@ import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.util.IIcon;
 import net.minecraftforge.common.MinecraftForge;
 
-import com.bioxx.tfc.Blocks.Terrain.BlockSmooth;
-import com.bioxx.tfc.Core.TFCTabs;
-import com.bioxx.tfc.api.Constant.Global;
+import com.dunk.tfc.Blocks.Terrain.BlockSmooth;
+import com.dunk.tfc.Core.TFCTabs;
+import com.dunk.tfc.api.Constant.Global;
 
 public class BlockMudBricks extends BlockSmooth
 {

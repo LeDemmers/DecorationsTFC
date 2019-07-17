@@ -2,8 +2,8 @@ package com.aleksey.decorations.Items;
 
 import net.minecraft.client.renderer.texture.IIconRegister;
 
-import com.bioxx.tfc.Core.TFCTabs;
-import com.bioxx.tfc.Items.ItemTerra;
+import com.dunk.tfc.Core.TFCTabs;
+import com.dunk.tfc.Items.ItemTerra;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

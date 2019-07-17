@@ -18,9 +18,9 @@ import com.aleksey.decorations.Core.BlockList;
 import com.aleksey.decorations.Core.Constants;
 import com.aleksey.decorations.Render.Blocks.RenderMudBrickRaw;
 import com.aleksey.decorations.TileEntities.TileEntityMudBrickRaw;
-import com.bioxx.tfc.Blocks.BlockTerraContainer;
-import com.bioxx.tfc.Core.TFCTabs;
-import com.bioxx.tfc.api.Constant.Global;
+import com.dunk.tfc.Blocks.BlockTerraContainer;
+import com.dunk.tfc.Core.TFCTabs;
+import com.dunk.tfc.api.Constant.Global;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

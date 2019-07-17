@@ -10,7 +10,7 @@ import com.aleksey.decorations.Core.Player.PlayerTracker;
 import com.aleksey.decorations.Handlers.ChunkEventHandler;
 import com.aleksey.decorations.Handlers.CraftingHandler;
 import com.aleksey.decorations.Handlers.Network.InitClientWorldPacket;
-import com.bioxx.tfc.TerraFirmaCraft;
+import com.dunk.tfc.TerraFirmaCraft;
 
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Loader;
@@ -23,7 +23,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.ExistingSubstitutionException;
 
-@Mod(modid="DecorationsTFC", name="Decorations", version="1.0.19", dependencies="required-after:terrafirmacraft")
+@Mod(modid="DecorationsTFC", name="Decorations", version="1.0.19", dependencies="required-after:terrafirmacraftplus")
 public class DecorationsMod
 {
     @Instance("DecorationsTFC")

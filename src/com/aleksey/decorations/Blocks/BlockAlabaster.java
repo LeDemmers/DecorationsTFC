@@ -5,9 +5,9 @@ import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.util.IIcon;
 
 import com.aleksey.decorations.Core.FluidList;
-import com.bioxx.tfc.Blocks.Terrain.BlockSmooth;
-import com.bioxx.tfc.Core.TFCTabs;
-import com.bioxx.tfc.Items.ItemDyeCustom;
+import com.dunk.tfc.Blocks.Terrain.BlockSmooth;
+import com.dunk.tfc.Core.TFCTabs;
+import com.dunk.tfc.Items.ItemDyeCustom;
 
 public class BlockAlabaster extends BlockSmooth
 {

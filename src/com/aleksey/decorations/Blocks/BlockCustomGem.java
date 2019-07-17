@@ -21,8 +21,8 @@ import net.minecraftforge.common.util.ForgeDirection;
 import com.aleksey.decorations.Core.Data.Bound;
 import com.aleksey.decorations.Core.Data.GemInfo;
 import com.aleksey.decorations.TileEntities.TileEntityGem;
-import com.bioxx.tfc.Blocks.BlockTerraContainer;
-import com.bioxx.tfc.Core.TFCTabs;
+import com.dunk.tfc.Blocks.BlockTerraContainer;
+import com.dunk.tfc.Core.TFCTabs;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

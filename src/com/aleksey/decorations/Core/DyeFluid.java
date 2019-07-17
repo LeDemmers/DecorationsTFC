@@ -1,6 +1,6 @@
 package com.aleksey.decorations.Core;
 
-import com.bioxx.tfc.Core.FluidBaseTFC;
+import com.dunk.tfc.Core.FluidBaseTFC;
 
 public class DyeFluid extends FluidBaseTFC
 {

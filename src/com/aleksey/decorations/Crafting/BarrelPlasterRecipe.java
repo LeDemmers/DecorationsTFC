@@ -3,7 +3,7 @@ package com.aleksey.decorations.Crafting;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fluids.FluidStack;
 
-import com.bioxx.tfc.api.Crafting.BarrelRecipe;
+import com.dunk.tfc.api.Crafting.BarrelRecipe;
 
 public class BarrelPlasterRecipe extends BarrelRecipe
 {

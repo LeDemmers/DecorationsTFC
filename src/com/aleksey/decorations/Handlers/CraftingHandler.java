@@ -5,7 +5,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
 import com.aleksey.decorations.Core.ItemList;
-import com.bioxx.tfc.Core.Recipes;
+import com.dunk.tfc.Core.Recipes;
 
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import cpw.mods.fml.common.gameevent.PlayerEvent.ItemCraftedEvent;
@@ -23,7 +23,7 @@ public class CraftingHandler
         if(iinventory != null)
         {
             if(item == ItemList.Powder && isDmg == 0)
-                com.bioxx.tfc.Handlers.CraftingHandler.handleItem(e.player, e.craftMatrix, Recipes.hammers);
+                com.dunk.tfc.Handlers.CraftingHandler.handleItem(e.player, e.craftMatrix, Recipes.hammers);
         }
     }
 }

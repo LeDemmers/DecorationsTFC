@@ -8,10 +8,10 @@ import net.minecraftforge.fluids.FluidRegistry;
 import net.minecraftforge.fluids.FluidStack;
 
 import com.aleksey.decorations.DecorationsMod;
-import com.bioxx.tfc.Core.FluidBaseTFC;
-import com.bioxx.tfc.Items.ItemDyeCustom;
-import com.bioxx.tfc.api.TFCFluids;
-import com.bioxx.tfc.api.TFCItems;
+import com.dunk.tfc.Core.FluidBaseTFC;
+import com.dunk.tfc.Items.ItemDyeCustom;
+import com.dunk.tfc.api.TFCFluids;
+import com.dunk.tfc.api.TFCItems;
 
 public class FluidList
 {

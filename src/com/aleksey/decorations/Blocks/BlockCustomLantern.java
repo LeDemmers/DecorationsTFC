@@ -12,7 +12,7 @@ import net.minecraft.world.World;
 
 import com.aleksey.decorations.Core.BlockList;
 import com.aleksey.decorations.Core.Data.LanternInfo;
-import com.bioxx.tfc.Core.TFCTabs;
+import com.dunk.tfc.Core.TFCTabs;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

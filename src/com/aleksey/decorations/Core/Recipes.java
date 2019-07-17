@@ -13,17 +13,17 @@ import net.minecraftforge.oredict.ShapelessOreRecipe;
 import com.aleksey.decorations.DecorationsMod;
 import com.aleksey.decorations.Core.Data.LanternInfo;
 import com.aleksey.decorations.Crafting.BarrelPlasterRecipe;
-import com.bioxx.tfc.api.TFCBlocks;
-import com.bioxx.tfc.api.TFCCrafting;
-import com.bioxx.tfc.api.TFCFluids;
-import com.bioxx.tfc.api.TFCItems;
-import com.bioxx.tfc.api.Constant.Global;
-import com.bioxx.tfc.api.Crafting.AnvilManager;
-import com.bioxx.tfc.api.Crafting.AnvilRecipe;
-import com.bioxx.tfc.api.Crafting.BarrelManager;
-import com.bioxx.tfc.api.Crafting.BarrelRecipe;
-import com.bioxx.tfc.api.Crafting.PlanRecipe;
-import com.bioxx.tfc.api.Enums.RuleEnum;
+import com.dunk.tfc.api.TFCBlocks;
+import com.dunk.tfc.api.TFCCrafting;
+import com.dunk.tfc.api.TFCFluids;
+import com.dunk.tfc.api.TFCItems;
+import com.dunk.tfc.api.Constant.Global;
+import com.dunk.tfc.api.Crafting.AnvilManager;
+import com.dunk.tfc.api.Crafting.AnvilRecipe;
+import com.dunk.tfc.api.Crafting.BarrelManager;
+import com.dunk.tfc.api.Crafting.BarrelRecipe;
+import com.dunk.tfc.api.Crafting.PlanRecipe;
+import com.dunk.tfc.api.Enums.RuleEnum;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 

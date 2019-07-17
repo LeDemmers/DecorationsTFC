@@ -12,7 +12,7 @@ import com.aleksey.decorations.Items.ItemGypsumPowder;
 import com.aleksey.decorations.Items.ItemLanternCore;
 import com.aleksey.decorations.Items.ItemLiquidDye;
 import com.aleksey.decorations.Items.ItemPlaster;
-import com.bioxx.tfc.api.TFCItems;
+import com.dunk.tfc.api.TFCItems;
 
 import cpw.mods.fml.common.registry.ExistingSubstitutionException;
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -68,19 +68,19 @@ public class ItemList
     {
         if(DecorationsMod.isGemsEnabled)
         {
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemRuby.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemRuby);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemSapphire.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemSapphire);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemEmerald.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemEmerald);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemTopaz.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemTopaz);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemTourmaline.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemTourmaline);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemJade.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemJade);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemBeryl.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemBeryl);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemAgate.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemAgate);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemOpal.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemOpal);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemGarnet.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemGarnet);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemJasper.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemJasper);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemAmethyst.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemAmethyst);
-            GameRegistry.addSubstitutionAlias("terrafirmacraft:" + TFCItems.gemDiamond.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemDiamond);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemRuby.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemRuby);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemSapphire.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemSapphire);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemEmerald.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemEmerald);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemTopaz.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemTopaz);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemTourmaline.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemTourmaline);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemJade.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemJade);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemBeryl.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemBeryl);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemAgate.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemAgate);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemOpal.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemOpal);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemGarnet.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemGarnet);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemJasper.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemJasper);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemAmethyst.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemAmethyst);
+            GameRegistry.addSubstitutionAlias("terrafirmacraftplus:" + TFCItems.gemDiamond.getUnlocalizedName(), GameRegistry.Type.ITEM, TFCItems.gemDiamond);
         }
         
         if(DecorationsMod.isLanternsEnabled)

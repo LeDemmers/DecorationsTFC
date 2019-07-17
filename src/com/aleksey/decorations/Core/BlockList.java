@@ -14,7 +14,7 @@ import com.aleksey.decorations.Items.ItemBlocks.ItemAlabaster;
 import com.aleksey.decorations.Items.ItemBlocks.ItemLantern;
 import com.aleksey.decorations.Items.ItemBlocks.ItemMudBrickRaw;
 import com.aleksey.decorations.Items.ItemBlocks.ItemMudBricks;
-import com.bioxx.tfc.api.Constant.Global;
+import com.dunk.tfc.api.Constant.Global;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 

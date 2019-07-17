@@ -13,7 +13,7 @@ import net.minecraftforge.common.util.ForgeDirection;
 
 import com.aleksey.decorations.Core.BlockList;
 import com.aleksey.decorations.TileEntities.TileEntityGem;
-import com.bioxx.tfc.Items.ItemGem;
+import com.dunk.tfc.Items.ItemGem;
 
 public class ItemCustomGem extends ItemGem
 {
